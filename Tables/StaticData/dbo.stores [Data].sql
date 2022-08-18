@@ -1,0 +1,6 @@
+INSERT [dbo].[stores] ([stor_id], [stor_name], [stor_address], [city], [state], [zip]) VALUES (N'6380', N'Eric the Read Books', N'788 Catamaugus Ave.', N'Seattle', N'WA', N'98056')
+INSERT [dbo].[stores] ([stor_id], [stor_name], [stor_address], [city], [state], [zip]) VALUES (N'7066', N'Barnum''s', N'567 Pasadena Ave.', N'Tustin', N'CA', N'92789')
+INSERT [dbo].[stores] ([stor_id], [stor_name], [stor_address], [city], [state], [zip]) VALUES (N'7067', N'News & Brews', N'577 First St.', N'Los Gatos', N'CA', N'96745')
+INSERT [dbo].[stores] ([stor_id], [stor_name], [stor_address], [city], [state], [zip]) VALUES (N'7131', N'Doc-U-Mat: Quality Laundry and Books', N'24-A Avogadro Way', N'Remulade', N'WA', N'98014')
+INSERT [dbo].[stores] ([stor_id], [stor_name], [stor_address], [city], [state], [zip]) VALUES (N'7896', N'Fricative Bookshop', N'89 Madison St.', N'Fremont', N'CA', N'90019')
+INSERT [dbo].[stores] ([stor_id], [stor_name], [stor_address], [city], [state], [zip]) VALUES (N'8042', N'Bookbeat', N'679 Carson St.', N'Portland', N'OR', N'89076')
